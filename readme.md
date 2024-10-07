@@ -8,7 +8,7 @@ LICENSE: [MIT](//license.mid)
 
 ### Содержание:
 1. Что-то
-2. [gitt add] (./add.md)
+2. [git add] (./add.md)
 
 
 ---
