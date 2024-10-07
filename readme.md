@@ -2,7 +2,7 @@
 
 LICENSE: [MIT](//license.mid)
 
-![git-logo](./git-logo.svg.png)
+![git-logo](./git_logo.png)
 
 ---
 
@@ -14,4 +14,3 @@ LICENSE: [MIT](//license.mid)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 4.0] (https://creativecommons.org/licenses/by/4.0/deed.en)
-
